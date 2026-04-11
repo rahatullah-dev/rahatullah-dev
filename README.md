@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahat Ullah
 
-<!--
-**rahatullah-dev/rahatullah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🎨 Graphic Designer | 📚 Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 👨‍💻 My name is Rahat Ullah
+- 🌐 I am a Web Developer
+- 🎯 I love building websites and learning new technologies
+- 📚 Currently learning React.js and Firebase
+
+---
+
+## 🛠️ Skills
+
+### 💻 Web Development
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- TypeScript
+- Email.js (basic knowledge)
+
+### 🎨 Graphic Design
+- Adobe Photoshop
+- Canva
+
+### ⚙️ Tools
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- 🌍 I have built multiple websites
+- 💡 I love creating real-world projects
+
+---
+
+## 📈 Currently Learning
+- React.js
+- Firebase
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
