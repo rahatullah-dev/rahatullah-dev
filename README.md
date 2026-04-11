@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rahat Ullah<br><br>💻 Web Developer | 🎨 Graphic Designer | 📚 Learner<br><br>🚀 About Me<br>- 👨‍💻 My name is Rahat Ullah<br>- 🌐 I am a Web Developer<br>- 🎯 I love building websites and learning new technologies<br>- 📚 Currently learning React.js and Firebase
+👋 Hi, I'm Rahat Ullah<br><br>💻 Web Developer | 🎨 Graphic Designer | 📚 Learner<br><br>- 🎯 I love building websites and learning new technologies<br>- 📚 Currently learning React.js and Firebase
 
 
 ## 🌐 Socials:
