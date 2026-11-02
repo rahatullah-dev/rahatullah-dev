@@ -85,8 +85,8 @@ portfolio/
 No build tools or dependencies required. Just clone and open.
 
 ```bash
-git clone https://github.com/rahatullah-dev/portfolio.git
-cd portfolio
+git clone https://github.com/rahatullah-dev/rahatullah-dev.git
+cd rahatullah-dev
 ```
 
 Then open `index.html` in your browser — or use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code.
